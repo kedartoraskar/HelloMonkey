@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloMonkey</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="talkToAgentBtn">Talk To Agent</string>
+    <string name="title_activity_banner">BannerActivity</string>
+    <string name="btn_enter">Enter</string>
+    <string name="title_activity_check_box_list_adapter">CheckBoxListAdapter</string>
+
+</resources>
